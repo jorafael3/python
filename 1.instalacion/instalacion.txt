@@ -1,0 +1,15 @@
+
+#herramientas necesarias
+
+1.descargar python https://www.python.org/downloads/
+2.instalar python, fijarse que este la opcion de agregar al path con visto
+
+3.descargar vscode https://code.visualstudio.com/download
+4.instalar extension python
+
+
+#PARA BASE DE DATOS MySql
+
+1.descargar xammp https://www.apachefriends.org/xampp-files/7.4.27/xampp-windows-x64-7.4.27-2-VC15-installer.exe
+2.instalar xammp
+3.para iniciar mysql click en Start MySql

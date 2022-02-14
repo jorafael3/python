@@ -17,19 +17,4 @@ print(suma)
 
 
 
-#******************************
-#***  Comparison Operators
 
-
-a = 5
-b = 5
-
-igual = (a==b)
-dif = (a != b)
-mayor = (a > b)
-menor = (a < b)
-mayori = (a >= b)
-menori = (a <= b)
-
-
-print(igual)
