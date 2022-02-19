@@ -82,7 +82,7 @@ y me diga cual es el mayor de los 3 ingresados
 
 
 """
-
+"""
 n1 = int(input("n1: "))
 n2 = int(input("n2: "))
 n3 = int(input("n3: "))
@@ -96,6 +96,8 @@ else:
         print(n2, " es el mayor")
     else:
         print(n3, " es el mayor")
+"""
+
 
 
 
