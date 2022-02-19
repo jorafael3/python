@@ -1,4 +1,4 @@
-from ejerim import suma, menuSum,MostrarArreglo
+from despues.ejerim import suma, menuSum,MostrarArreglo
 
 
 
