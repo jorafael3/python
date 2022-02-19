@@ -41,7 +41,6 @@ for k in valores:
     print(k)
 
 """
-from turtle import clear
 
 
 autos = []

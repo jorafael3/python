@@ -21,13 +21,13 @@ En la operación de asignación se ven involucradas tres partes:
 
 """
 
-from asyncio.windows_events import NULL
+
+
 
 
 a = 1
 a = True
 a = False
-a = NULL
 a = None
 a = "hola"
 

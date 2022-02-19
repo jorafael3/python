@@ -15,8 +15,24 @@ if condición:
     bloque de código
 
 """
+
 """
+
+a = 5
+b = 5
+
+if (a == b):
+    print("inguales")
+else:
+    print("no son iguales")
+
+if (a > 100):
+    print("mayor")
+else:
+    print("menor")
 x = 10
+
+
 
 if x < 20:
     print('x es menor que 20')
